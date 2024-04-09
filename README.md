@@ -1,17 +1,19 @@
-# Repositório de Acompanhamento - Algoritmo e estrutura de dados II
+# Course Repository - Algorithm and Data Structures II
 
-Bem-vindo ao repositório de acompanhamento da disciplina deAlgoritmo e estrutura de dados II. Este repositório foi criado para armazenar informações importantes sobre a disciplina, projetos e tarefas ao longo do semestre.
-Nesta disciplina de Algoritmo e Estrutura de Dados II, os alunos explorarão tópicos avançados como complexidade de algoritmos, grafos e análise de redes. O curso inclui projetos práticos para aplicar esses conceitos, culminando em um Projeto Final. A visualização de dados e estudos de caso em áreas como redes sociais e mobilidade também serão abordados. O objetivo é aprofundar a compreensão dos alunos sobre algoritmos e estruturas de dados, capacitando-os a resolver problemas complexos de forma eficiente.
+Welcome to the course repository for Algorithm and Data Structures II. This repository has been created to store important information about the course, projects, and tasks throughout the semester.
 
-## Informações da Disciplina
+In this Algorithm and Data Structures II course, students will explore advanced topics such as algorithm complexity, graphs, and network analysis. The course includes practical projects to apply these concepts, culminating in a Final Project. Data visualization and case studies in areas such as social networks and mobility will also be covered. The goal is to deepen students' understanding of algorithms and data structures, empowering them to efficiently solve complex problems.
 
-- **Disciplina:** Algoritmo e estrutura de dados II
+## Course Information
+
+- **Course:** Algorithm and Data Structures II
 - **Professor:** IVANOVITCH MEDEIROS DANTAS DA SILVA
-- **Semestre:** 2023.2
+- **Semester:** 2023.2
 
-## Identificação Pessoal
+## Personal Identification
 
-- **Aluno:** Pedro Henrique Bezerra Fernandes
-- **Contato:** pedro.fernandes45@hotmail.com
+- **Student:** Pedro Henrique Bezerra Fernandes
+- **Contact:** pedro.fernandes45@hotmail.com
 
-## Projetos e Tarefas
+## Projects and Tasks
+
